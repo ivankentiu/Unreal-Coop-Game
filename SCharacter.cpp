@@ -10,6 +10,7 @@
 #include "SHealthComponent.h"
 #include "../Public/SWeapon.h"
 #include "Net/UnrealNetwork.h"
+#include "Engine/World.h"
 
 // Sets default values
 ASCharacter::ASCharacter()
